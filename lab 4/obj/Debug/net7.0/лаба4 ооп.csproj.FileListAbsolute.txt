@@ -1,0 +1,42 @@
+D:\Программирование на питоне\лаба4 ооп\bin\Debug\net7.0\лаба4 ооп.exe
+D:\Программирование на питоне\лаба4 ооп\bin\Debug\net7.0\лаба4 ооп.deps.json
+D:\Программирование на питоне\лаба4 ооп\bin\Debug\net7.0\лаба4 ооп.runtimeconfig.json
+D:\Программирование на питоне\лаба4 ооп\bin\Debug\net7.0\лаба4 ооп.dll
+D:\Программирование на питоне\лаба4 ооп\bin\Debug\net7.0\лаба4 ооп.pdb
+D:\Программирование на питоне\лаба4 ооп\obj\Debug\net7.0\лаба4 ооп.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование на питоне\лаба4 ооп\obj\Debug\net7.0\лаба4 ооп.AssemblyInfoInputs.cache
+D:\Программирование на питоне\лаба4 ооп\obj\Debug\net7.0\лаба4 ооп.AssemblyInfo.cs
+D:\Программирование на питоне\лаба4 ооп\obj\Debug\net7.0\лаба4 ооп.csproj.CoreCompileInputs.cache
+D:\Программирование на питоне\лаба4 ооп\obj\Debug\net7.0\лаба4 ооп.dll
+D:\Программирование на питоне\лаба4 ооп\obj\Debug\net7.0\refint\лаба4 ооп.dll
+D:\Программирование на питоне\лаба4 ооп\obj\Debug\net7.0\лаба4 ооп.pdb
+D:\Программирование на питоне\лаба4 ооп\obj\Debug\net7.0\лаба4 ооп.genruntimeconfig.cache
+D:\Программирование на питоне\лаба4 ооп\obj\Debug\net7.0\ref\лаба4 ооп.dll
+D:\ОПП\лаба4 ооп\bin\Debug\net7.0\лаба4 ооп.exe
+D:\ОПП\лаба4 ооп\bin\Debug\net7.0\лаба4 ооп.deps.json
+D:\ОПП\лаба4 ооп\bin\Debug\net7.0\лаба4 ооп.runtimeconfig.json
+D:\ОПП\лаба4 ооп\bin\Debug\net7.0\лаба4 ооп.dll
+D:\ОПП\лаба4 ооп\bin\Debug\net7.0\лаба4 ооп.pdb
+D:\ОПП\лаба4 ооп\obj\Debug\net7.0\лаба4 ооп.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОПП\лаба4 ооп\obj\Debug\net7.0\лаба4 ооп.AssemblyInfoInputs.cache
+D:\ОПП\лаба4 ооп\obj\Debug\net7.0\лаба4 ооп.AssemblyInfo.cs
+D:\ОПП\лаба4 ооп\obj\Debug\net7.0\лаба4 ооп.csproj.CoreCompileInputs.cache
+D:\ОПП\лаба4 ооп\obj\Debug\net7.0\лаба4 ооп.dll
+D:\ОПП\лаба4 ооп\obj\Debug\net7.0\refint\лаба4 ооп.dll
+D:\ОПП\лаба4 ооп\obj\Debug\net7.0\лаба4 ооп.pdb
+D:\ОПП\лаба4 ооп\obj\Debug\net7.0\лаба4 ооп.genruntimeconfig.cache
+D:\ОПП\лаба4 ооп\obj\Debug\net7.0\ref\лаба4 ооп.dll
+C:\Users\ttsla\Desktop\лаба4 ооп\bin\Debug\net7.0\лаба4 ооп.exe
+C:\Users\ttsla\Desktop\лаба4 ооп\bin\Debug\net7.0\лаба4 ооп.deps.json
+C:\Users\ttsla\Desktop\лаба4 ооп\bin\Debug\net7.0\лаба4 ооп.runtimeconfig.json
+C:\Users\ttsla\Desktop\лаба4 ооп\bin\Debug\net7.0\лаба4 ооп.dll
+C:\Users\ttsla\Desktop\лаба4 ооп\bin\Debug\net7.0\лаба4 ооп.pdb
+C:\Users\ttsla\Desktop\лаба4 ооп\obj\Debug\net7.0\лаба4 ооп.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ttsla\Desktop\лаба4 ооп\obj\Debug\net7.0\лаба4 ооп.AssemblyInfoInputs.cache
+C:\Users\ttsla\Desktop\лаба4 ооп\obj\Debug\net7.0\лаба4 ооп.AssemblyInfo.cs
+C:\Users\ttsla\Desktop\лаба4 ооп\obj\Debug\net7.0\лаба4 ооп.csproj.CoreCompileInputs.cache
+C:\Users\ttsla\Desktop\лаба4 ооп\obj\Debug\net7.0\лаба4 ооп.dll
+C:\Users\ttsla\Desktop\лаба4 ооп\obj\Debug\net7.0\refint\лаба4 ооп.dll
+C:\Users\ttsla\Desktop\лаба4 ооп\obj\Debug\net7.0\лаба4 ооп.pdb
+C:\Users\ttsla\Desktop\лаба4 ооп\obj\Debug\net7.0\лаба4 ооп.genruntimeconfig.cache
+C:\Users\ttsla\Desktop\лаба4 ооп\obj\Debug\net7.0\ref\лаба4 ооп.dll
