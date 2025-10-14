@@ -1,0 +1,16 @@
+C:\Users\ttsla\source\repos\lab4.4.4\lab4.4.4\obj\Debug\net8.0-windows\lab4._4._4.Form1.resources
+C:\Users\ttsla\source\repos\lab4.4.4\lab4.4.4\obj\Debug\net8.0-windows\lab4.4.4.csproj.GenerateResource.cache
+C:\Users\ttsla\source\repos\lab4.4.4\lab4.4.4\obj\Debug\net8.0-windows\lab4.4.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ttsla\source\repos\lab4.4.4\lab4.4.4\obj\Debug\net8.0-windows\lab4.4.4.AssemblyInfoInputs.cache
+C:\Users\ttsla\source\repos\lab4.4.4\lab4.4.4\obj\Debug\net8.0-windows\lab4.4.4.AssemblyInfo.cs
+C:\Users\ttsla\source\repos\lab4.4.4\lab4.4.4\obj\Debug\net8.0-windows\lab4.4.4.csproj.CoreCompileInputs.cache
+C:\Users\ttsla\source\repos\lab4.4.4\lab4.4.4\bin\Debug\net8.0-windows\lab4.4.4.exe
+C:\Users\ttsla\source\repos\lab4.4.4\lab4.4.4\bin\Debug\net8.0-windows\lab4.4.4.deps.json
+C:\Users\ttsla\source\repos\lab4.4.4\lab4.4.4\bin\Debug\net8.0-windows\lab4.4.4.runtimeconfig.json
+C:\Users\ttsla\source\repos\lab4.4.4\lab4.4.4\bin\Debug\net8.0-windows\lab4.4.4.dll
+C:\Users\ttsla\source\repos\lab4.4.4\lab4.4.4\bin\Debug\net8.0-windows\lab4.4.4.pdb
+C:\Users\ttsla\source\repos\lab4.4.4\lab4.4.4\obj\Debug\net8.0-windows\lab4.4.4.dll
+C:\Users\ttsla\source\repos\lab4.4.4\lab4.4.4\obj\Debug\net8.0-windows\refint\lab4.4.4.dll
+C:\Users\ttsla\source\repos\lab4.4.4\lab4.4.4\obj\Debug\net8.0-windows\lab4.4.4.pdb
+C:\Users\ttsla\source\repos\lab4.4.4\lab4.4.4\obj\Debug\net8.0-windows\lab4.4.4.genruntimeconfig.cache
+C:\Users\ttsla\source\repos\lab4.4.4\lab4.4.4\obj\Debug\net8.0-windows\ref\lab4.4.4.dll
